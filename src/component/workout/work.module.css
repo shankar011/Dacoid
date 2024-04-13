@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.check-out{
+    display: flex;
+    margin: 1rem;
+}
+.check-out p{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 5rem;
+    margin-top: 10px;
+}
+.warning{
+    border-radius: 10px;
+    margin: 10px;
+    background: linear-gradient(to right,#9eb1f5,#e7e5e5);
+}
+.warning span{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    margin: 1.6rem;
+}
+.heading p{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+}
+.heading span{
+   
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.check-list{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem; 
+    border: 1px ;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #F1F1F1;
+}
+
+.check-list input{
+    color: #F1F1F1;
+    margin-top: 7px;
+}
+.body{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #2C2B2B;
+}
+.time{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 10px;
+    color: #7F7F7F;
+}
+
+.fitness{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #8CB1FF;
+    border-radius: 12px;
+    margin-top: 1rem;
+}
+.full-body{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 14px;
+    color: #2C2B2B;
+}
+.body-part{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    color: #2C2B2B;
+}

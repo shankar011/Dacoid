@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.check-list{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem; 
+    border: 1px ;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #F1F1F1;
+}
+.check-list p{
+    font-family:  "Montserrat";
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 7px;
+}
+.check-list input{
+    color: #F1F1F1;
+    margin-top: 7px;
+}
+.btn{
+    width: 300px;
+    height: 50px;
+    font-family:  "Montserrat";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 50px;
+    border: none;
+    background-color:#7B91FF;
+    color:#f5f5f7 ;
+}
